@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+creator="OCAD 2020.6.2.3920" version="1.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 
+http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.ocad.com">
+      <text>OCAD AG</text>
+    </link>
+    <time>2022-12-11T18:30:33</time>
+    <bounds maxlat="56.30221247" maxlon="44.02470796" minlat="56.24507613" minlon="43.94956111"/>
+  </metadata>
+
+  <wpt lat="56.29028564" lon="43.95571462" >
+    <name>С1</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.29562319" lon="43.94917676" >
+    <name>10</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.28900305" lon="43.98210272" >
+    <name>11</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.28742885" lon="43.96777307" >
+    <name>12</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25865502" lon="43.96390828" >
+    <name>13</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.27776836" lon="43.95282558" >
+    <name>20</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.28832768" lon="43.94837528" >
+    <name>21</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.29016491" lon="44.00768575" >
+    <name>22</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.27067231" lon="43.98853524" >
+    <name>23</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.27361731" lon="43.97148474" >
+    <name>24</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.26566856" lon="43.96947634" >
+    <name>25</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25889481" lon="43.97979618" >
+    <name>30</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.27824061" lon="43.99285455" >
+    <name>31</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25779525" lon="43.95995721" >
+    <name>40</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.26869373" lon="43.99249504" >
+    <name>41</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.27595874" lon="44.00915507" >
+    <name>42</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.28488782" lon="44.00531214" >
+    <name>43</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.29859091" lon="44.02394698" >
+    <name>50</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.29197140" lon="44.02471349" >
+    <name>51</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.26046595" lon="43.98160766" >
+    <name>52</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25207833" lon="44.00067552" >
+    <name>53</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25936545" lon="44.00785011" >
+    <name>55</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25368262" lon="43.96369073" >
+    <name>60</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25030080" lon="44.01093155" >
+    <name>61</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.28799326" lon="43.99842693" >
+    <name>62</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.29703676" lon="44.00322231" >
+    <name>63</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.30216814" lon="44.01909471" >
+    <name>70</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.25192191" lon="44.02226519" >
+    <name>80</name>
+    <cmt></cmt>
+  </wpt>
+  <wpt lat="56.24570248" lon="44.02614496" >
+    <name>100</name>
+    <cmt></cmt>
+  </wpt>
+</gpx>
