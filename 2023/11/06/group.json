@@ -1,0 +1,58 @@
+[
+  { 
+    "ratingName": "Ж-вело",
+    "eventName": [ ]
+  },
+  { 
+    "ratingName": "М-вело",
+    "eventName": [ ]
+  },
+  { 
+    "ratingName": "Рсд",
+    "eventName": [ "РсД" ]
+  },
+
+
+  { 
+    "ratingName": "ЖЮ",
+    "eventName": [ "ЖЮ" ]
+  },
+  { 
+    "ratingName": "ЖМ",
+    "eventName": [ "ЖМ" ]
+  },
+  { 
+    "ratingName": "ЖО",
+    "eventName": [ "ЖО" ]
+  },
+  { 
+    "ratingName": "ЖВ",
+    "eventName": [ "ЖВ" ]
+  },
+  { 
+    "ratingName": "ЖСВ",
+    "eventName": [ "ЖСВ", "ЖУВ" ]
+  },
+  
+  
+  { 
+    "ratingName": "МЮ",
+    "eventName": [ "МЮ" ]
+  },
+  { 
+    "ratingName": "ММ",
+    "eventName": [ "ММ" ]
+  },
+  { 
+    "ratingName": "МО",
+    "eventName": [ "МО" ]
+  },
+  { 
+    "ratingName": "МВ",
+    "eventName": [ "МВ" ]
+  },
+  { 
+    "ratingName": "МСВ",
+    "eventName": [ "МСВ", "МУВ" ]
+  }
+]
