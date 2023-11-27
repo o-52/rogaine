@@ -49,7 +49,7 @@
   },
   { 
     "ratingName": "МВ",
-    "eventName": [ "МВ" ]
+    "eventName": [ "МВ","МО" ]
   },
   { 
     "ratingName": "МСВ",
